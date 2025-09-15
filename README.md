@@ -1,2 +1,2 @@
 # Networks
-Reliable Flow control on top UDP
+Reliable Flow control on top of UDP
